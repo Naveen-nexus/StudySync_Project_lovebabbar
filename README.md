@@ -9,6 +9,3 @@ Files
 How to run
 1. Open `index.html` in your browser (double-click or use "Open with").
 
-Notes
-- This repository appears to be a static site; no build step required.
-- If you want, I can extend the README with license, contribution notes, or a screenshot.
